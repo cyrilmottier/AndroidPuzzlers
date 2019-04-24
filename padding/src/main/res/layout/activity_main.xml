@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/padded_rect"
+    android:padding="5px"
+    android:paddingBottom="6px"
+    android:paddingEnd="7px"
+    android:paddingHorizontal="8px"
+    android:paddingLeft="9px"
+    android:paddingRight="10px"
+    android:paddingStart="11px"
+    android:text="Puzzling padding"
+    android:textSize="24sp"
+    android:textStyle="bold" />

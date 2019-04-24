@@ -1,0 +1,11 @@
+include ":base"
+
+include ":channels"
+include ":detach"
+include ":drawable"
+include ":inflate"
+include ":lifecycle"
+include ":locale"
+include ":padding"
+include ':prefererences'
+include ':weight'

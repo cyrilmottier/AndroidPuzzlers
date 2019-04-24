@@ -1,0 +1,6 @@
+apply from: puzzler
+
+dependencies {
+    implementation 'androidx.fragment:fragment:1.0.0'
+}
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.cyrilmottier.android.puzzlers"
+    tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+
+    <application
+        android:allowBackup="true"
+        android:label="Fragment Detach"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Puzzlers">
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

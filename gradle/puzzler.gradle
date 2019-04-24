@@ -1,0 +1,12 @@
+apply plugin: 'com.android.application'
+apply from: common
+
+android {
+    defaultConfig {
+        applicationId "com.cyrilmottier.android.puzzlers"
+    }
+}
+
+dependencies {
+    implementation project(":base")
+}

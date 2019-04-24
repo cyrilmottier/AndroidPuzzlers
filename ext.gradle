@@ -1,0 +1,4 @@
+buildscript {
+    ext.common = "${rootDir}/gradle/common.gradle"
+    ext.puzzler = "${rootDir}/gradle/puzzler.gradle"
+}

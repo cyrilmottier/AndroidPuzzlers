@@ -1,0 +1,7 @@
+apply from: puzzler
+
+android {
+    defaultConfig {
+         resConfigs "es"
+    }
+}
